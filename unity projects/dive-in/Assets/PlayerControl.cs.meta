@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eee285a8cd3a4c34489568cc118ba067
+timeCreated: 1504468536
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - controllerIn: {instanceID: 0}
+  - cameraHandlerIn: {instanceID: 0}
+  - animatorIn: {fileID: 9500000, guid: e8563147e62f9dd40b0a459100bdd387, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
